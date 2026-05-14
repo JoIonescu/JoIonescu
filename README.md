@@ -8,21 +8,25 @@
 
 UX/UI Designer • Conversation UX / AI Designer • Human-Centered Product Thinker
 I design intuitive digital experiences focused on human behavior, accessibility, and AI-powered interactions.
-🎨 UX/UI Designer with a focus on conversational AI and human-AI interaction
-🤖 Passionate about Conversation UX, AI-assisted workflows, and behavioral design
-📱 Designing digital products for web and mobile experiences
-🧠 Interested in reducing cognitive load through thoughtful UX systems
-🌍 Working across multidisciplinary teams from concept to launch
-📚 Continuous learner exploring AI, accessibility, and emerging design systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 🔭 I’m currently working on:
+AI-Driven Personal Productivity Companion
+An intelligent productivity ecosystem designed to help busy professionals capture tasks effortlessly, stay organized, and reduce daily mental load.
+
+
+- 🌱 I’m currently learning to code and to speak Polish language 😁 
+
+- 👯 I’m looking to collaborate on AI-powered products, UX research initiatives, mobile experiences, and projects focused on meaningful human-centered design.
+
+- 🤔 I’m looking for help with turning ambitious ideas into products people genuinely enjoy using.
+
+- 💬 Ask me about UX/UI design, Figma, AI tools, conversation design, or why users never click the button you expect them to 😅
+
+- 📫 How to reach me: via LinkedIn — https://www.linkedin.com/in/ioana-jo-ionescu/ 
+
+- ⚡ Fun fact: I can spend hours fixing 2 pixels of alignment and call it “design refinement.”
 <!--
 **JoIonescu/JoIonescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
