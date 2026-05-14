@@ -5,20 +5,20 @@
 
 <pre>🙋‍♂️ About me
 
-
+      
 UX/UI Designer • Conversation UX / AI Designer • Human-Centered Product Thinker
 I design intuitive digital experiences focused on human behavior, accessibility, and AI-powered interactions.
-
+  
 
 
 - 🔭 I’m currently working on:
 AI-Driven Personal Productivity Companion
-An intelligent productivity ecosystem designed to help busy professionals capture tasks effortlessly, stay organized, and reduce daily mental load.
+An intelligent productivity ecosystem designed to help busy professionals capture tasks effortlessly, stay organized, and reduce daily mental load. <br />
 
 
-- 🌱 I’m currently learning to code and to speak Polish language 😁 
+- 🌱 I’m currently learning to code and to speak Polish language 😁  <br />
 
-- 👯 I’m looking to collaborate on AI-powered products, UX research initiatives, mobile experiences, and projects focused on meaningful human-centered design.
+- 👯 I’m looking to collaborate on AI-powered products, UX research initiatives, mobile experiences, and projects focused on meaningful human-centered design. <br />
 
 - 🤔 I’m looking for help with turning ambitious ideas into products people genuinely enjoy using.
 
