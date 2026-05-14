@@ -11,7 +11,7 @@ I design intuitive digital experiences focused on human behavior, accessibility,
   
 
 
-🔭 I’m currently working on:<ins>  <br />
+🔭 I’m currently working on: <br />
 AI-Driven Personal Productivity Companion
 An intelligent productivity ecosystem designed to help busy professionals capture tasks effortlessly, stay organized, and reduce daily mental load. <br /> <br />
 
