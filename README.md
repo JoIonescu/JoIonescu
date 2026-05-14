@@ -24,7 +24,7 @@ An intelligent productivity ecosystem designed to help busy professionals captur
 
 💬 Ask me about UX/UI design, Figma, AI tools, conversation design, or why users never click the button you expect them to 😅 <br /> <br />
 
-📫 How to reach me: via LinkedIn — https://www.linkedin.com/in/ioana-jo-ionescu/  <br /> <br />
+📫 How to reach me: via LinkedIn @ https://www.linkedin.com/in/ioana-jo-ionescu/  <br /> <br />
 
 ⚡ Fun fact: I can spend hours fixing 2 pixels of alignment and call it “design refinement.” <br />
 <!--
