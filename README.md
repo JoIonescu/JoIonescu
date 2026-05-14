@@ -1,5 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Jo👋
 
+
+
+
+🙋‍♂️ About me
+
+
+UX/UI Designer • Conversation UX / AI Designer • Human-Centered Product Thinker
+I design intuitive digital experiences focused on human behavior, accessibility, and AI-powered interactions.
+🎨 UX/UI Designer with a focus on conversational AI and human-AI interaction
+🤖 Passionate about Conversation UX, AI-assisted workflows, and behavioral design
+📱 Designing digital products for web and mobile experiences
+🧠 Interested in reducing cognitive load through thoughtful UX systems
+🌍 Working across multidisciplinary teams from concept to launch
+📚 Continuous learner exploring AI, accessibility, and emerging design systems
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **JoIonescu/JoIonescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
