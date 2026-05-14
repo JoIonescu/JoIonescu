@@ -3,7 +3,7 @@
 
 
 
-<pre>🙋‍♂️ About me
+🙋‍♂️ About me
 
       
 UX/UI Designer • Conversation UX / AI Designer • Human-Centered Product Thinker
@@ -26,7 +26,7 @@ An intelligent productivity ecosystem designed to help busy professionals captur
 
 - 📫 How to reach me: via LinkedIn — https://www.linkedin.com/in/ioana-jo-ionescu/ 
 
-- ⚡ Fun fact: I can spend hours fixing 2 pixels of alignment and call it “design refinement.”<pre>
+- ⚡ Fun fact: I can spend hours fixing 2 pixels of alignment and call it “design refinement.”
 <!--
 **JoIonescu/JoIonescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
