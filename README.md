@@ -7,7 +7,7 @@
 
       
 UX/UI Designer • Conversation UX / AI Designer • Human-Centered Product Thinker
-I design intuitive digital experiences focused on human behavior, accessibility, and AI-powered interactions. <br />
+I design intuitive digital experiences focused on human behavior, accessibility, and AI-powered interactions. <br /><ins> </ins>
   
 
 
