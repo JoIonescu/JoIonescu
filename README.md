@@ -20,8 +20,6 @@ An intelligent productivity ecosystem designed to help busy professionals captur
 
 👯 I’m looking to collaborate on AI-powered products, UX research initiatives, mobile experiences, and projects focused on meaningful human-centered design. <br /> <br />
 
-🤔 I’m looking for help with turning ambitious ideas into products people genuinely enjoy using. <br /> <br />
-
 💬 Ask me about UX/UI design, Figma, AI tools, conversation design, or why users never click the button you expect them to 😅 <br /> <br />
 
 📫 How to reach me: via LinkedIn @ https://www.linkedin.com/in/ioana-jo-ionescu/  <br /> <br />
