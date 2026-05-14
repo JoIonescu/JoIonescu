@@ -7,26 +7,26 @@
 
       
 UX/UI Designer • Conversation UX / AI Designer • Human-Centered Product Thinker
-I design intuitive digital experiences focused on human behavior, accessibility, and AI-powered interactions.
+I design intuitive digital experiences focused on human behavior, accessibility, and AI-powered interactions. <br />
   
 
 
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
 AI-Driven Personal Productivity Companion
 An intelligent productivity ecosystem designed to help busy professionals capture tasks effortlessly, stay organized, and reduce daily mental load. <br />
 
 
-- 🌱 I’m currently learning to code and to speak Polish language 😁  <br />
+🌱 I’m currently learning to code and to speak Polish language 😁  <br />
 
-- 👯 I’m looking to collaborate on AI-powered products, UX research initiatives, mobile experiences, and projects focused on meaningful human-centered design. <br />
+👯 I’m looking to collaborate on AI-powered products, UX research initiatives, mobile experiences, and projects focused on meaningful human-centered design. <br />
 
-- 🤔 I’m looking for help with turning ambitious ideas into products people genuinely enjoy using.
+🤔 I’m looking for help with turning ambitious ideas into products people genuinely enjoy using. <br />
 
-- 💬 Ask me about UX/UI design, Figma, AI tools, conversation design, or why users never click the button you expect them to 😅
+💬 Ask me about UX/UI design, Figma, AI tools, conversation design, or why users never click the button you expect them to 😅 <br />
 
-- 📫 How to reach me: via LinkedIn — https://www.linkedin.com/in/ioana-jo-ionescu/ 
+📫 How to reach me: via LinkedIn — https://www.linkedin.com/in/ioana-jo-ionescu/  <br />
 
-- ⚡ Fun fact: I can spend hours fixing 2 pixels of alignment and call it “design refinement.”
+⚡ Fun fact: I can spend hours fixing 2 pixels of alignment and call it “design refinement.” <br />
 <!--
 **JoIonescu/JoIonescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
